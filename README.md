@@ -1,4 +1,4 @@
-# ⚔️DropoutShield
+# ⚔️DropGuard
 
 
 #### Problem Statement - Early Warning System for Student Dropouts
@@ -84,7 +84,7 @@ Once the model is trained and fine-tuned, it can be used to predict student drop
 Continuous Improvement:
 Building an early student dropout detector is an iterative process. As new data becomes available and interventions are implemented, the model can be continuously retrained and refined to enhance its predictive capabilities. Regular evaluation and monitoring of the model's performance are crucial to ensure its effectiveness over time.
   
-## DropoutShield
+## DropGuard
 ![HomePage](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/464c8047-3d26-4b39-9d36-eca5c625bb6f)
 ![InputPage1](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/ca7018d7-fc6c-4ad2-a063-0afef349e1f8)
 ![InputPage2](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/9d84af03-a04d-467a-8ea1-044f0ad143a8)
@@ -92,7 +92,7 @@ Building an early student dropout detector is an iterative process. As new data 
 
 ## Summary of Intel oneAPI AI Analytics Toolkit Optimization
 
-In our project "DropoutShield" the integration of Intel oneAPI Toolkits has been instrumental in maximizing the efficiency and performance of our deep learning models. By leveraging these toolkits, including Intel oneDNN and OpenMP optimizations, we've achieved remarkable advancements in our quest to prevent student dropouts and foster a supportive educational environment.
+In our project "DropGuard" the integration of Intel oneAPI Toolkits has been instrumental in maximizing the efficiency and performance of our deep learning models. By leveraging these toolkits, including Intel oneDNN and OpenMP optimizations, we've achieved remarkable advancements in our quest to prevent student dropouts and foster a supportive educational environment.
 
 Enhanced Training Processes
 
