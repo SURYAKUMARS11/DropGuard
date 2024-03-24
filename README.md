@@ -92,7 +92,7 @@ Building an early student dropout detector is an iterative process. As new data 
 
 ## Summary of Intel oneAPI AI Analytics Toolkit Optimization
 
-In our project "EduGuard" the integration of Intel oneAPI Toolkits has been instrumental in maximizing the efficiency and performance of our deep learning models. By leveraging these toolkits, including Intel oneDNN and OpenMP optimizations, we've achieved remarkable advancements in our quest to prevent student dropouts and foster a supportive educational environment.
+In our project "DropoutShield" the integration of Intel oneAPI Toolkits has been instrumental in maximizing the efficiency and performance of our deep learning models. By leveraging these toolkits, including Intel oneDNN and OpenMP optimizations, we've achieved remarkable advancements in our quest to prevent student dropouts and foster a supportive educational environment.
 
 Enhanced Training Processes
 
