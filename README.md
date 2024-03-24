@@ -13,7 +13,7 @@ solution that can help address this challenge and hopefully solve it for greater
   
 ## Tech Stack: 
 
-1. Intel oneAPI Base Toolkit (General Compute)
+Intel oneAPI Base Toolkit (General Compute)
 
 Intel® oneAPI Data Analytics Library (oneDAL): Employed for advanced data preprocessing and analysis tasks, facilitating the extraction of insights from student demographics, academic performance, and socio-economic factors.
 
