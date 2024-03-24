@@ -73,7 +73,7 @@ Once the model is trained and fine-tuned, it can be used to predict student drop
 Continuous Improvement:
 Building an early student dropout detector is an iterative process. As new data becomes available and interventions are implemented, the model can be continuously retrained and refined to enhance its predictive capabilities. Regular evaluation and monitoring of the model's performance are crucial to ensure its effectiveness over time.
   
-## DropGuardian 
+## DropoutShield
 ![HomePage](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/464c8047-3d26-4b39-9d36-eca5c625bb6f)
 ![InputPage1](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/ca7018d7-fc6c-4ad2-a063-0afef349e1f8)
 ![InputPage2](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/9d84af03-a04d-467a-8ea1-044f0ad143a8)
