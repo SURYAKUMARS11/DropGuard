@@ -12,6 +12,14 @@ have become a major challenge faced by the education sector which in turn result
 solution that can help address this challenge and hopefully solve it for greater good.
   
 ## Tech Stack: 
+
+1. Intel oneAPI Base Toolkit (General Compute)
+
+Intel® oneAPI Data Analytics Library (oneDAL): Employed for advanced data preprocessing and analysis tasks, facilitating the extraction of insights from student demographics, academic performance, and socio-economic factors.
+
+Intel MKL (Math Kernel Library) : This optimization ensures that our dropout prediction models are trained and evaluated with maximum efficiency, leading to quicker insights and interventions.
+
+Intel® Distribution for Python: Empowers efficient data manipulation, model development, and integration within the Python ecosystem, enabling seamless interaction with Intel oneAPI libraries and frameworks.
    
 ### Model tracking and optimization:
 Jupyter Notebook,
@@ -25,6 +33,9 @@ Flask,
 FastAPI,
 Streamlit,
 AWS Lambda,
+HTML,
+CSS,
+JavaScript.
 
    
 ## Step-by-Step Code Execution Instructions:
@@ -79,8 +90,30 @@ Building an early student dropout detector is an iterative process. As new data 
 ![InputPage2](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/9d84af03-a04d-467a-8ea1-044f0ad143a8)
 ![ResultPage](https://github.com/RuPaul23/intel-oneAPI/assets/105512611/4f766eda-0885-41db-84ea-d533dc598f6f)
 
+## Summary of Intel oneAPI AI Analytics Toolkit Optimization
+
+In our project "EduGuard" the integration of Intel oneAPI Toolkits has been instrumental in maximizing the efficiency and performance of our deep learning models. By leveraging these toolkits, including Intel oneDNN and OpenMP optimizations, we've achieved remarkable advancements in our quest to prevent student dropouts and foster a supportive educational environment.
+
+Enhanced Training Processes
+
+Intel oneAPI Toolkits have revolutionized our training processes, allowing us to expedite model development and refinement. With Intel oneDNN, we benefit from highly optimized deep learning primitives, enabling faster convergence during training. This accelerated training pace translates to reduced time-to-deployment, empowering us to iterate rapidly and adapt to evolving educational needs.
+
+Higher Inference Speeds
+
+The collaboration between our deep learning models and Intel's optimization tools has unlocked higher inference speeds, ensuring real-time responsiveness and seamless user experiences. Through meticulous optimization with OpenMP, we leverage the multi-threading capabilities of Intel processors to parallelize computations efficiently. This parallelization leads to enhanced inference speed, enabling timely detection of dropout risk factors and proactive intervention.
+
+Improved Overall Efficiency
+
+Intel oneAPI Toolkits have elevated the overall efficiency of our early warning system, aligning with our commitment to delivering quality education experiences. By harnessing the power of Intel i5 11th gen processors, we capitalize on cutting-edge hardware capabilities to streamline data processing and analysis. This synergy between hardware and software optimizations results in improved system responsiveness, reduced latency, and optimized resource utilization.
+
+Seamless Educational Experiences
+
+The integration of Intel oneAPI Toolkits ensures that our platform delivers seamless and efficient educational experiences for users. Whether it's accelerating model training, enhancing inference speeds, or optimizing overall system performance, Intel's comprehensive toolkit empowers us to uphold the highest quality standards while advancing student success initiatives.
+
+In summary, Intel oneAPI Toolkits play a pivotal role in our mission to prevent student dropouts and promote equitable access to quality education. Through relentless optimization and collaboration, we leverage the full potential of Intel's technology stack to drive meaningful impact in the educational landscape.
+
 ## What I Learned:
-  From the project "Early Warning System for Student Dropouts using Intel® AI Analytics Toolkits," we have learned several valuable insights and lessons:
+From the project "Early Warning System for Student Dropouts using Intel® AI Analytics Toolkits," we have learned several valuable insights and lessons:
 
 1. Importance of Data-Driven Approaches: The project highlighted the significance of leveraging data and analytics to identify early warning signs of student dropout. By harnessing the power of Intel® AI Analytics Toolkits, we can uncover patterns and indicators that might go unnoticed through traditional methods, enabling timely intervention and support.
 
